@@ -8,8 +8,8 @@ I'm currently a student pursuing an MSc in Engineering of Robotics. With a stron
 
 ### 🛠️ Skills and Technologies
 - **Programming Languages:** Python, SQL, C,  C#, HTML, 
-- **Data Science and Machine Learning:** Jupyter, NumPy, Pandas, scikit-learn, dash, matplotlib, seaborn, folium, plotly
-- **Tools and Platforms:** GitHub, Kaggle
+- **Data Science and Machine Learning:** NumPy, Pandas, scikit-learn, dash, matplotlib, seaborn, folium, plotly
+- **Tools and Platforms:** GitHub, Jupyter, Kaggle
 
 ### 📜 Certifications
 - IBM Data Science Specialization (12 courses) [Credential](https://www.coursera.org/account/accomplishments/specialization/RJ6GRAFFCLN2)
