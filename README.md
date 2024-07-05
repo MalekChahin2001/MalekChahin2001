@@ -1,13 +1,13 @@
 # Hi there, I'm Malek Chahin 👋
 
 ### 🚀 About Me
-I'm currently a student pursuing an MSc in Engineering of Robotics. With a strong passion for data science and machine learning, I have developed expertise in Python, SQL, Jupyter, and various data manipulation and analysis libraries such as NumPy and Pandas. I love working on projects and continually learning new things, especially through platforms like Kaggle.
+I'm currently a student pursuing an MSc in Engineering of Robotics. With a strong passion for data science and machine learning, I have developed expertise in Python, SQL, Jupyter, and various data manipulation and analysis libraries such as NumPy and Pandas in addition to multiple visualization libraries. I love working on projects and continually learning new things, especially through platforms like Kaggle.
 
 ### 🎓 Education
 - **MSc in Engineering of Robotics** (3rd year)
 
 ### 🛠️ Skills and Technologies
-- **Programming Languages:** Python, SQL
+- **Programming Languages:** Python, SQL, C,  C#, HTML, 
 - **Data Science and Machine Learning:** Jupyter, NumPy, Pandas, scikit-learn, dash, matplotlib, seaborn, folium, plotly
 - **Tools and Platforms:** GitHub, Kaggle
 
